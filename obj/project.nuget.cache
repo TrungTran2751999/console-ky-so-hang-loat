@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "dgSpecHash": "meiAr2DHlGCwbIlRjR0MFQBlrIpT1tG4iR2vhpBO7MF+lXZ1VpeVdZ19glnY44FGZWPrrDPztlUwNzdPA2/Kqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COMPUTER\\Desktop\\ky-so-hang-loat\\KySoHangLoat_Console_1\\ConsoleKySo\\ConsoleKySo\\ConsoleKySo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\cenit.plugins.vnpt.smartcav4\\1.25.2.1\\cenit.plugins.vnpt.smartcav4.1.25.2.1.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\itext\\9.0.0\\itext.9.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\itext.commons\\9.0.0\\itext.commons.9.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\itext7\\9.0.0\\itext7.9.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\restsharp\\104.4.0\\restsharp.104.4.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: RestSharp from 106.15.0 to 104.4.0. Reference the package directly from the project to select a different version. \r\n ConsoleKySo -> CenIT.Plugins.VNPT.SmartCAv4 1.25.2.1 -> RestSharp (>= 106.15.0) \r\n ConsoleKySo -> RestSharp (>= 104.4.0)",
+      "libraryId": "RestSharp",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8",
+        ".NETFramework,Version=v4.8/win",
+        ".NETFramework,Version=v4.8/win-arm64",
+        ".NETFramework,Version=v4.8/win-x64",
+        ".NETFramework,Version=v4.8/win-x86"
+      ]
+    }
+  ]
+}

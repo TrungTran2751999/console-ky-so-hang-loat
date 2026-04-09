@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\COMPUTER\\Desktop\\ky-so-hang-loat\\KySoHangLoat_Console_1\\ConsoleKySo\\ConsoleKySo\\ConsoleKySo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\COMPUTER\\Desktop\\ky-so-hang-loat\\KySoHangLoat_Console_1\\ConsoleKySo\\ConsoleKySo\\ConsoleKySo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\COMPUTER\\Desktop\\ky-so-hang-loat\\KySoHangLoat_Console_1\\ConsoleKySo\\ConsoleKySo\\ConsoleKySo.csproj",
+        "projectName": "ConsoleKySo",
+        "projectPath": "C:\\Users\\COMPUTER\\Desktop\\ky-so-hang-loat\\KySoHangLoat_Console_1\\ConsoleKySo\\ConsoleKySo\\ConsoleKySo.csproj",
+        "packagesPath": "C:\\Users\\COMPUTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\COMPUTER\\Desktop\\ky-so-hang-loat\\KySoHangLoat_Console_1\\ConsoleKySo\\ConsoleKySo\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\COMPUTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "CenIT.Plugins.VNPT.SmartCAv4": {
+              "target": "Package",
+              "version": "[1.25.2.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[104.4.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
